@@ -1,0 +1,37 @@
+{
+  "updated": "2026-11-24",
+  "exams": {
+    "sw1": [
+      {
+        "id": "2027-25",
+        "name": "제25회 사회복지사 1급",
+        "apply": [
+          {"label": "원서 접수", "start": "2026-12-07", "end": "2026-12-11", "note": "큐넷, 첫날 09:00 ~ 마감일 18:00"},
+          {"label": "빈자리 접수", "start": "2027-01-07", "end": "2027-01-08", "note": "큐넷, 환불로 생긴 자리만 선착순, 조기 마감될 수 있음"}
+        ],
+        "exam": "2027-01-16",
+        "source": "https://www.q-net.or.kr/site/welfare",
+        "sourceDoc": "https://www.mohw.go.kr/boardDownload.es?bid=0003&list_no=1492262&seq=2",
+        "confirmed": true,
+        "checked": "2026-11-24"
+      }
+    ],
+    "jutaek": [],
+    "gong9": [
+      {
+        "id": "2027-national",
+        "name": "2027년 국가직 9급 공채",
+        "apply": [
+          {"label": "원서 접수", "start": "2027-01-25", "end": "2027-01-29", "note": "국가공무원 채용시스템, 첫날 09:00 ~ 마감일 18:00"}
+        ],
+        "exam": "2027-03-27",
+        "source": "https://gongmuwon.gosi.kr",
+        "sourceDoc": "https://www.mpm.go.kr/board/file/bbs_0000000000000029/4360/FILE_000000100074981/761176d09719220054737d034c123a5a",
+        "confirmed": true,
+        "checked": "2026-11-24"
+      }
+    ],
+    "haengjeong": [],
+    "junggae": []
+  }
+}
