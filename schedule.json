@@ -16,7 +16,28 @@
         "checked": "2026-11-24"
       }
     ],
-    "jutaek": [],
+    "jutaek": [
+      {
+        "id": "2027-30-1",
+        "name": "제30회 주택관리사(보) 1차",
+        "apply": [],
+        "exam": null,
+        "source": "https://www.q-net.or.kr/site/housing",
+        "confirmed": false,
+        "checked": "2026-11-24",
+        "memo": "2027년 일정 미발표(큐넷은 제29회까지 게시)"
+      },
+      {
+        "id": "2027-30-2",
+        "name": "제30회 주택관리사(보) 2차",
+        "apply": [],
+        "exam": null,
+        "source": "https://www.q-net.or.kr/site/housing",
+        "confirmed": false,
+        "checked": "2026-11-24",
+        "memo": "2027년 일정 미발표(큐넷은 제29회까지 게시)"
+      }
+    ],
     "gong9": [
       {
         "id": "2027-national",
@@ -29,9 +50,57 @@
         "sourceDoc": "https://www.mpm.go.kr/board/file/bbs_0000000000000029/4360/FILE_000000100074981/761176d09719220054737d034c123a5a",
         "confirmed": true,
         "checked": "2026-11-24"
+      },
+      {
+        "id": "2027-local",
+        "name": "2027년 지방직 9급 공채",
+        "apply": [
+          {"label": "원서 접수", "start": "2027-03-22", "end": "2027-03-26", "note": "지방자치단체 인터넷원서접수센터, 시·도 일정(안), 2월 시·도 시행계획 공고에서 최종 확인"}
+        ],
+        "exam": "2027-06-19",
+        "source": "https://local.gosi.go.kr",
+        "sourceDoc": "https://www.busan.go.kr/depart/jobexam01/1762843",
+        "confirmed": true,
+        "checked": "2026-11-24",
+        "memo": "부산시 인사위원회 공고 제2026-106호(2026-11-09)와 충청북도 2027 임용시험 일정(안)이 같은 날짜. 둘 다 '(안)', 세부 시행계획은 2027년 2월 공고 예정"
       }
     ],
-    "haengjeong": [],
-    "junggae": []
+    "haengjeong": [
+      {
+        "id": "2027-15-1",
+        "name": "제15회 행정사 1차",
+        "apply": [],
+        "exam": null,
+        "source": "https://www.q-net.or.kr/site/haengjung",
+        "confirmed": false,
+        "checked": "2026-11-24",
+        "memo": "2027년 일정 미발표(큐넷은 제14회까지 게시)"
+      },
+      {
+        "id": "2027-15-2",
+        "name": "제15회 행정사 2차",
+        "apply": [],
+        "exam": null,
+        "source": "https://www.q-net.or.kr/site/haengjung",
+        "confirmed": false,
+        "checked": "2026-11-24",
+        "memo": "2027년 일정 미발표(큐넷은 제14회까지 게시)"
+      }
+    ],
+    "junggae": [
+      {
+        "id": "2027-38",
+        "name": "제38회 공인중개사",
+        "apply": [
+          {"label": "원서 접수(예정)", "start": "2027-08-02", "end": "2027-08-06", "note": "큐넷, 제37회 시행계획 공고의 '2027년 시행 예정 사항'(8월 첫째 월~금). 제38회 공고 전"}
+        ],
+        "exam": "2027-10-30",
+        "source": "https://www.q-net.or.kr/site/junggae",
+        "sourceDoc": "https://www.q-net.or.kr/crf002.do?id=crf00201s01&gSite=L&gId=08&filePath=impl_noti/08_2026_01&fileName=2026%EB%85%84%EB%8F%84%20%EC%A0%9C37%ED%9A%8C%20%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC%20%EC%9E%90%EA%B2%A9%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D%20%EA%B3%B5%EA%B3%A0%EB%AC%B8(%ED%81%90%EB%84%B7%EC%9A%A9).pdf",
+        "confirmed": false,
+        "checked": "2026-11-24",
+        "memo": "시험일은 '매년 10월 마지막 토요일(2027-10-30 예정)'. 제38회 시행계획 공고가 나오면 confirmed:true로 바꾸고 빈자리 접수 추가"
+      }
+    ]
   }
 }
